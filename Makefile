@@ -1,5 +1,5 @@
 index:
-	./markindex.sh "Cooperation" "http://cooperation.sisopipo.com" "asc" 
+	./markindex.sh "Organization" "http://organization.sisopipo.com" "asc" 
 
 help:
 	echo "usage: make index"

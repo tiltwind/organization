@@ -1,4 +1,4 @@
-# [Cooperation](http://cooperation.sisopipo.com)
+# [Organization](http://organization.sisopipo.com)
 
 ## scrum
 * [2017 Scrum 指南™](/agile/scrum/scrum-guide-2017), wongoo, 2019-01-22

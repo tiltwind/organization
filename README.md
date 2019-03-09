@@ -1,6 +1,6 @@
-# [Cooperation](http://cooperation.sisopipo.com)
+# [Organization](http://organization.sisopipo.com)
 
-## cooperation
+## organization
 
 ## Navigation
 [agile](/agile/)

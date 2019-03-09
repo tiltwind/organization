@@ -1,6 +1,6 @@
-# [Cooperation](http://cooperation.sisopipo.com)
+# [Organization](http://organization.sisopipo.com)
 
-## cooperation
+## organization
 # scrum
 * [2017 Scrum 指南™](/agile/scrum/scrum-guide-2017),2019-01-22
 * [2016 Scrum 指南™](/agile/scrum/scrum-guide-2016),2019-01-22
