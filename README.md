@@ -4,10 +4,12 @@
 
 ## Navigation
 [agile](/agile/)
+[okr](/okr/)
 
 ## Categories
 
  [agile](/category/agile)
+ [okr](/category/okr)
  [scrum](/category/scrum)
  [task](/category/task)
 
@@ -15,5 +17,6 @@
 
  [scrum](/tag/scrum)
  [agile](/tag/agile)
+ [okr](/tag/okr)
  [faq](/tag/faq)
  [task](/tag/task)
