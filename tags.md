@@ -4,5 +4,7 @@
  [5w1h](/tag/5w1h)
  [mece](/tag/mece)
  [okr](/tag/okr)
+ [pattern](/tag/pattern)
+ [branch](/tag/branch)
  [faq](/tag/faq)
  [task](/tag/task)
