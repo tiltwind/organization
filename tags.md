@@ -5,6 +5,8 @@
  [complex](/tag/complex)
  [mece](/tag/mece)
  [okr](/tag/okr)
+ [绩效](/tag/绩效)
+ [评估](/tag/评估)
  [pattern](/tag/pattern)
  [branch](/tag/branch)
  [faq](/tag/faq)
